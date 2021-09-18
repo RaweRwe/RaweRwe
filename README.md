@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently learning **javascript, php, vue.js**
 
+<h3 align="left">If you want to donate me</h3>
++ https://rawe.tebex.io/package/4687886
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/BW5KA78SXW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BW5KA78SXW" height="30" width="40" /></a>

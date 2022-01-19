@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawe</h1>
+
+- **My real name is Umut Erdi. Im 17 y.o. Im working for myself.**
+
 - 🔭 I’m currently working on **lua, html, css, javascript php, boostraps,**
 
 - 🌱 I’m currently learning **javascript, php, vue.js**

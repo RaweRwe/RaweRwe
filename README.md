@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rawe</h1>
 
-- **My real name is Umut Erdi. Im 18 y.o. Im working for myself.**
+- **My real name is Umut Erdi. Im 19 y.o. Im working for myself.**
 
-- 🔭 I’m currently working on **lua, html, css, javascript, php, boostraps**
+- 🔭 I’m currently working on **lua, html, css, javascript, php, boostraps, typescript, nodejs**
 
 - 🌱 I’m currently learning **javascript, php, vue.js**
+
+<h3 align="left">Best Open Source License System</h3>
++ https://discord.gg/BW5KA78SXW
 
 <h3 align="left">Are u looking a fivem anticheat with cheapest price?</h3>
 + https://discord.gg/clownguard
